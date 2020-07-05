@@ -5,11 +5,10 @@
 #portBody h2, #portBody h3, .artifactWrap h2, .folderContentView h2, .portfolioArtifactTable th {
     color: blue;
 }
-h6 {
-    color: red;
-}
 
 body {
- background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDTqGxA5yh2zGFVcQgvr9fjvRbRk49dBfrXA&usqp=CAU");
-
+    background-color: black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDTqGxA5yh2zGFVcQgvr9fjvRbRk49dBfrXA&usqp=CAU");
+    color: #1c1e22;
+    font-size: 12px;
 }
