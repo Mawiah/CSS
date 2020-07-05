@@ -1,0 +1,25 @@
+.about-head {
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-style: solid;
+    border-color: inherit;
+    background-color: inherit;
+    display: flex;
+    align-content: space-around;
+}
+
+.about-head .img-wrapper {
+    flex-grow: 1;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    float: right;
+    justify-content: flex-end;
+}
+
+.about-section {
+    margin-top: 50px;
+    color: black;
+    margin-bottom: 80px;
+    ;
+}
