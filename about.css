@@ -1,13 +1,57 @@
 #portBody h2, #portBody h3, .artifactWrap h2, .folderContentView h2, .portfolioArtifactTable th {
-    color: blue;
+    color: red;
 }
 
 
 body {
-    color: blue;
+    color: red;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDTqGxA5yh2zGFVcQgvr9fjvRbRk49dBfrXA&usqp=CAU);
 }
 
 h2{
     font-family: arial;
+}
+
+element.style {
+}
+#portNav ul li a {
+    color: #000;
+}
+#portNav ul li a {
+    color: rgb(56, 75, 118);
+    height: auto;
+}
+#portNav ul li a {
+    float: left;
+    font-size: 14px;
+    padding: 10px 5px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    overflow: hidden;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#portNav ul li {
+    float: left;
+    list-style-type: none;
+    padding: 5px 9px 5px 0px;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+#portBody {
+    background-color: rgba(0,0,0,.8);
+    border: 5px solid #fff;
+    min-height: 0;
+    color: #fff;
+    font-family: Verdana,Geneva,Tahoma,sans-serif;
 }
