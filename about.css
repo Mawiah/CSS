@@ -56,3 +56,11 @@ ul {
     color: #5cbdb9;
     min-height: 100vh;
 }
+
+#portFooter {
+        margin: 0;
+    border-style: solid;
+    text-align: center;
+    background-color: #05386b;
+    border-color: #05386b;
+}
