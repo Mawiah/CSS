@@ -14,6 +14,10 @@ h2{
 
 element.style {
 }
+#portNav {
+display: inline-block;
+   text-align:center;
+}
 #portNav ul li a {
     color: #000;
 }
