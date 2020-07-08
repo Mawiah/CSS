@@ -148,6 +148,11 @@ body {
 
 .portSection .vtbegenerated {
 margin: -10px 0 10px;
+border: solid;
+border-radius: .5rem;
+border-color: #D6A84E;
+background-color: rgba(0, 0, 0, 0.5);
+margin: 2rem;
 }
 
 #portFooter {
