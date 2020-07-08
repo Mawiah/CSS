@@ -9,18 +9,17 @@ body {
 .artifactWrap h2,
 .folderContentView h2,
 .portfolioArtifactTable th {
-    color: #D6A84E;
+    color: rgb(255, 255, 255);
 }
 
 #portBody {
-    background-image: url("https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854__340.png");
-    background-color: rgba(15, 15, 15, 0.5);
+    background-color: rgb(17, 0, 255, 0.1);
     background-blend-mode: lighten;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     border: 1px solid #c2cbd2;
-    border-color: #D6A84E;
+    border-color: rgb(92, 92, 91);
 }
 
 #portNav {
